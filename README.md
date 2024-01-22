@@ -1,9 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=252e40&text=Me%20tornado%20o%20melhor%20de%20mim%20em%20programação&reversal=false&fontSize=33&animation=fadeIn&rotate=0&strokeWidth=0&desc=Programador%202024&descSize=25&descAlignY=21&fontColor=ffffff&fontAlignY=42" alt="Blue Waves">
 
-👋 Hi, I’m @devluan
+👋 Olá eu sou o @devluan<br>
 <br>
-![](https://komarev.com/ghpvc/?username=devluan-github-username)
-
+<br>
 Eu sou o Luan dos Santos, sou :triangular_ruler: arquiteto de formação :mortar_board:,<br> 
 mais entrando no mundo da :computer: programação e me tornando um programador :rocket:.<br>
 Sou programador Front End, mais ja dei inicio nos estudo de Back End.<br>
