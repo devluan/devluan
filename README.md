@@ -1,5 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=252e40&text=Me%20tornado%20o%20melhor%20de%20mim%20em%20programação&reversal=false&fontSize=33&animation=fadeIn&rotate=0&strokeWidth=0&desc=Programador%202024&descSize=25&descAlignY=21&fontColor=ffffff&fontAlignY=42" alt="Blue Waves">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffffab&size=55&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Luan;Tenho+34+anos;Estou+estudando+Programção;Desenvolvedor+Front-End;Atualmente+estudo+JavaScript+e+React!)](https://git.io/typing-svg)
+
 👋 Olá eu sou o @devluan<br>
 <br>
 <br>
