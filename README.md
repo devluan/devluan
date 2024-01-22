@@ -45,3 +45,4 @@ Os estudos agora estão focados em:
   <img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' rel="stylesheet" href="https://www.linkedin.com/in/luan-dossantos/"/>
 </a> 
 <div/>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=252e40&reversal=false&fontSize=33&animation=fadeIn&rotate=0&strokeWidth=0&descSize=25&descAlignY=21&fontColor=ffffff&fontAlignY=42&section=footer" alt="Blue Waves">
